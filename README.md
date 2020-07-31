@@ -1,4 +1,4 @@
-A react app for some ta burgers (hosted at: https://react-my-burger-f0ebd.web.app/)
+A react app for some tasty burgers (hosted at: https://react-my-burger-f0ebd.web.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
