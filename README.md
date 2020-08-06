@@ -1,3 +1,5 @@
+A react app for some tasty burgers (hosted at firebase at: https://react-my-burger-f0ebd.web.app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
